@@ -25,6 +25,8 @@ NodeJS, Python, git (for git bash), and npm are required to run and test.
 
 ## Running the tests
 
+start [Ganache](https://truffleframework.com/ganache) at first.
+
 ```bash
 npm run build
 npm run test
