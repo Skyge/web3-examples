@@ -134,6 +134,17 @@ web3.eth.getCode(address [, defaultBlock] [, callback]);
 > #### Returns: `Promise<String>`
 >
 > <hr>
+## getCoinbase
+```js
+web3.eth.getCoinbase([callback])
+```
+> Returns the coinbase address to which mining rewards will go.
+>
+> <hr>
+>
+> #### Returns: `Promise<String>`
+>
+> <hr>
 ## getGasPrice
 ```js
 web3.eth.getGasPrice([callback]);
