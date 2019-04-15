@@ -9,3 +9,5 @@ web3.eth.getCoinbase([callback])
 > #### Returns: `Promise<String>`
 >
 > <hr>
+> 
+> <codesandbox> web3-eth/getCoinbase </codesandbox>

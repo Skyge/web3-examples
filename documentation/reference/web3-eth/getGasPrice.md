@@ -10,3 +10,5 @@ web3.eth.getGasPrice([callback]);
 > #### Returns: `Promise<String>`
 >
 > <hr>
+>
+> <codesandbox> web3-eth/getGasPrice </codesandbox>

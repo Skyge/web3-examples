@@ -22,3 +22,5 @@ web3.eth.getAccounts([callback]);
 > Using `web3.eth.accounts.create()` will not add accounts into this list.
 > For that use `web3.eth.personal.newAccount()`.
 > The results are the same as `web3.eth.personal.getAccounts()`, but by calling the RPC method `personal_listAccounts`.
+>
+> <codesandbox>web3-eth/getAccounts</codesandbox>

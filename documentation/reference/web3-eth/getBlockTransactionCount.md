@@ -15,3 +15,5 @@ web3.eth.getBlockTransactionCount(blockHashOrNumber [, callback]);
 > #### Returns: `Promise<Number>`
 >
 > <hr>
+>
+> <codesandbox>web3-eth/getBlockTransactionCount</codesandbox>

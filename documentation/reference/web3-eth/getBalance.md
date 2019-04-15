@@ -17,3 +17,5 @@ web3.eth.getBalance(address [, block] [, callback]);
 > #### Returns: `Promise<String>`
 >
 > <hr>
+>
+> <codesandbox>web3-eth/getBalance</codesandbox>

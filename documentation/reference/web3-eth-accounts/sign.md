@@ -26,3 +26,5 @@ web3.eth.accounts.sign(data, privateKey);
 > <hr>
 >
 > !> The `data` parameter is first parsed into UTF-8 characters, and then it is concatenated with `"\x19Ethereum Signed Message:\n" + message.length + message`.
+>
+> <codesandbox> web3-eth/getBlockNumber </codesandbox>

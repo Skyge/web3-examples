@@ -16,3 +16,5 @@ web3.eth.getCode(address [, defaultBlock] [, callback]);
 > #### Returns: `Promise<String>`
 >
 > <hr>
+>
+> <codesandbox> web3-eth/getCode </codesandbox>

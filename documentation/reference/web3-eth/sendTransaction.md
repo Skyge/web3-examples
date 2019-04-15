@@ -31,3 +31,5 @@ web3.eth.sendTransaction(transaction [, callback]);
 > | `"error"` | `Error[, Object]` | Fired if an error occurs during sending. For out of gas errors, the second parameter is the receipt. |
 >
 > <hr>
+>
+> <codesandbox> web3-eth/sendTransaction </codesandbox>
